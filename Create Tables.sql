@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS estacionamento
+CREATE DATABASE IF NOT EXISTS estacionamento;
 
 CREATE TABLE tbl_movimentacao (
   id int NOT NULL AUTO_INCREMENT,
