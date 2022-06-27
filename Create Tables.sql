@@ -1,3 +1,5 @@
+CREATE DATABASE IF NOT EXISTS estacionamento
+
 CREATE TABLE tbl_movimentacao (
   id int NOT NULL AUTO_INCREMENT,
   placa char(7) NOT NULL,
